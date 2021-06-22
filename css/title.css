@@ -1,8 +1,12 @@
-h1{
-    color: var(--color-first);
-    font-size: 50px;
-    text-shadow: 4px 4px 0px var(--color-black-first);
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 40px;
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#fbff00 0%, #ff0404 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(6px 6px var(--color-black-first));
+
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 40px;
 }

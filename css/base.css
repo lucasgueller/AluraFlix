@@ -1,13 +1,13 @@
 :root {
-    --color-first: #EDD834;
-    --color-second: #F24D16;
-    --color-third: #fff;
-    --color-quarter:#008891;
+  --color-first: #edd834;
+  --color-second: #f24d16;
+  --color-third: #fff;
+  --color-quarter: #023536;
 
-    --color-black-first: #000;
+  --color-black-first: rgb(0, 0, 0);
 }
 
-body{
-    background-color: var(--color-quarter);
-    font-family: 'Press Start 2P', cursive;
+body {
+  background-color: var(--color-quarter);
+  font-family: 'Press Start 2P', cursive;
 }
