@@ -1,0 +1,20 @@
+.main-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.main-footer .logo {
+  margin-bottom: 15px;
+}
+
+.main-footer .logo img {
+  width: 50px;
+  height: 50px;
+}
+
+.main-footer .title {
+  color: var(--color-third);
+  font-size: 15px;
+}
