@@ -1,4 +1,4 @@
-button {
+.main-button {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -14,10 +14,10 @@ button {
   transition: transform 200ms ease-in-out;
 }
 
-button:hover {
+.main-button:hover {
   transform: scale(1.05);
 }
-button a {
+.main-button a {
   text-decoration: none;
   color: var(--color-black-first);
 }

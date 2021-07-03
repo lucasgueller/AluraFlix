@@ -1,9 +1,0 @@
-label {
-    display: block;
-    font-family: 'Fira Code', monospace;
-    font-weight: 400;
-    font-size: 25px;
-    color: var(--color-third);
-    text-align: center;
-    margin-bottom: 15px;
-}
